@@ -1,0 +1,103 @@
+body {
+  background-size: cover;
+  background: url(./images.jpg);
+  z-index: 2;
+  margin: unset;
+}
+.heder {
+  height: 150px;
+  width: 100px;
+  background: rgb(93, 144, 198);
+  width: calc(100% - 600px);
+  margin-left: 300px;
+  border: 3px solid red;
+  border-radius: 5px;
+  position: sticky;
+  min-width: 1319px;
+  border-bottom: none;
+}
+.o {
+  height: 100px;
+  width: 260px;
+  position: relative;
+}
+.BackTekst {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  font-size: x-large;
+  display: block;
+  position: relative;
+  bottom: 20px;
+}
+audio {
+  display: block;
+  position: sticky;
+  top: 10000px;
+  left: 1620px;
+  z-index: 900;
+}
+.rolers {
+  font-size: 50px;
+  display: block;
+  position: relative;
+  bottom: 160px;
+  left: 450px;
+  border: solid black;
+  border-top: 2px;
+  border-bottom: 2px;
+  height: 80px;
+  width: 200px;
+  text-align: end;
+}
+.bicycle {
+  font-size: 50px;
+  display: block;
+  position: relative;
+  bottom: 240px;
+  left: 654px;
+  border: solid black;
+  border-top: 2px;
+  border-bottom: 2px;
+  height: 80px;
+  width: 244px;
+  text-align: end;
+}
+.scatebord {
+  font-size: 50px;
+  display: block;
+  position: relative;
+  bottom: 320px;
+  left: 900px;
+  border: solid black;
+  border-top: 2px;
+  border-bottom: 2px;
+  height: 80px;
+  width: 244px;
+  text-align: end;
+}
+.main {
+  text-align: left top;
+  width: 1280px;
+  height: auto;
+  background-color: white;
+  border: solid black 3px;
+  position: relative;
+  left: 300px;
+  bottom: 55px;
+  padding: 20px;
+}
+.text {
+  font-size: 60px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+.catalog {
+  width: 420px;
+  border: solid black 1px;
+  display: inline-block;
+  font-size: x-large;
+  border-radius: 5px;
+}
+.CatalogIMG {
+  height: 350px;
+  width: 350px;
+}
